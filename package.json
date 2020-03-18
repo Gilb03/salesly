@@ -18,7 +18,6 @@
   "homepage": "https://github.com/Gilb03/salesly#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jumbotron": "^0.2.9",
     "react": "^16.13.0",
     "react-router-dom": "^5.1.2"
   }
