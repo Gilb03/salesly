@@ -1,0 +1,6 @@
+# Log files
+
+# Packages and delicates
+node_modules/
+package.json
+package-lock.json
