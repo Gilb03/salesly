@@ -1,0 +1,10 @@
+# R files
+.Rproj.user
+.Rhistory
+
+# Package files
+/package.json 
+package-lock.json
+
+# Package folders
+node_modules/

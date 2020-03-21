@@ -4,7 +4,7 @@ library(shinythemes)
 library(dplyr)
 library(readr)
 library(shinyjs)
-sales_data <- read_csv("data/sales-data.csv")
+sales_data <- read_csv("/Users/gilbertking/src/salesly/data/sales-data.csv")
 
 # Define UI
 ui <- fluidPage(
