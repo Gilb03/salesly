@@ -5,6 +5,7 @@
 # Package files
 /package.json 
 package-lock.json
+.gitignore
 
 # Package folders
 node_modules/
