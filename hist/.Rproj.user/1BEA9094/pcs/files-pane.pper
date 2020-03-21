@@ -1,0 +1,9 @@
+{
+    "path" : "~/src/salesly",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
