@@ -26,7 +26,6 @@ Learn how to draw valuable business insights and visualizations from data. Based
 --version           print salesly version and exit
 ```
 
-
 # Example
 ``` 
 ```
